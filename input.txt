@@ -1,0 +1,24 @@
+Monroe / Pearland Parkway    Exit Ramp    Cash Not Accepted / $1.00    $0.90    $2.00    $3.00    $4.00    $5.00
+Telephone Road / SH 35    Exit Ramp    $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Wayside    Exit Ramp    $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Sam Houston Southeast Plaza    Pass Through    $1.75    $1.50    $3.50    $5.25    $7.00    $8.75
+Cullen (FM 865)    On Ramp    Cash Not Accepted / $1.00    $0.90    $2.00    $3.00    $4.00    $5.00
+Sam Houston Southwest Plaza    Pass Through    $1.75    $1.50    $3.50    $5.25    $7.00    $8.75
+Almeda Road    On Ramp    Cash Not Accepted / $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+W. Fuqua Street    On Ramp    $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Hillcroft Avenue    On Ramp    $1.00    $0.90    $2.00    $3.00    $4.00    $5.00
+South Main / US 90    On Ramp    Cash Not Accepted / $1.00    $0.90    $2.00    $3.00    $4.00    $5.00
+Bellaire    Exit Ramp    $1.00    $0.90    $2.00    $3.00    $4.00    $5.00
+Beltway 8 (to Westpark east or west)    Exit Ramp    Cash Not Accepted / $0.50    $0.50    $1.25    $1.75    $2.00    $2.50
+Westheimer Road    Exit Ramp    $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Briar Forest Dr.    Exit Ramp    $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Sam Houston South Plaza    Pass Through    $1.75    $1.50    $3.50    $5.25    $7.00    $8.75
+Hammerly Boulevard / Kempwood    Exit Ramp    $1.00    $0.90    $2.00    $3.00    $4.00    $5.00
+Clay Road    Exit Ramp    Cash Not Accepted / $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Tanner Road    Exit Ramp    Cash Not Accepted / $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Sam Houston Central Plaza    Pass Through    $1.75    $1.50    $3.50    $5.25    $7.00    $8.75
+West Road    Exit Ramp    $1.00    $0.90    $2.00    $3.00    $4.00    $5.00
+Fallbrook Drive    Exit Ramp    $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+N. Gessner Road    Exit Ramp    Cash Not Accepted / $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+SH 249    Exit Ramp    $1.25    $1.20    $2.75    $3.75    $5.00    $6.25
+Sam Houston North Plaza    Pass Through    $1.75    $1.50    $3.50    $5.25    $7.00    $8.75
